@@ -1,5 +1,6 @@
 pyrofork>=2.3.58
 tgcrypto
+instaloader
 motor
 
 # For Web Deployable
